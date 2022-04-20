@@ -9,7 +9,7 @@ it is simple todolist app.
 
 clone the repo 
 ```
-https://github.com/aalhommada/Laravel-vue-todolist.git
+https://github.com/Ainfazlin/todolist.git
 ```
 
 
